@@ -1,0 +1,29 @@
+{
+    "name": "Masterton/UseSphinxsearch",
+    "description": "Use SphinxSearch PHP API",
+    "require": {
+        "php": ">=5"
+    },
+    "license": "GPL",
+    "type": "library",
+    "keywords": ["Sphinx Search","Use Sphinx","api"],
+    "homepage": "http://zhengss.com/",
+    "authors": [
+        {
+            "name": "Masterton",
+            "homepage": "http://zhengss.com/"
+        }
+    ],
+    "require": {
+	"neutron/sphinxsearch-api": "^2.0"
+    },
+    "autoload": {
+        "classmap": ["sphinxapi.php"]
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
