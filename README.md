@@ -10,7 +10,7 @@
 * 5、导入测试数据将D:\sphinx\example.sql中语句执行到test数据库中，注意：test数据库创建时需要指定为utf-8格式；
 * 6、打开cmd窗口，进入目录D:\sphinx\bin；
 * 7、建立索引，执行indexer test1，test1即为sphinx.conf中index test1（indexer sphinx.conf --all 创建所有表的索引）
-* 7、开启搜索服务，执行 searchd sphinx.config
+* 8、开启搜索服务，执行 searchd sphinx.config
 ## Linux操作系统下的安装
 
 * 1、
