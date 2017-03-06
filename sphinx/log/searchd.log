@@ -1,0 +1,307 @@
+[Mon Feb 27 10:54:57.978 2017] [8196] FATAL: failed to open query log file '@CONFDIR@/log/query.log': No such file or directory
+[Mon Feb 27 10:55:10.211 2017] [5656] listening on all interfaces, port=9312
+[Mon Feb 27 10:55:10.216 2017] [5656] listening on all interfaces, port=9306
+[Mon Feb 27 10:55:10.227 2017] [5656] WARNING: index 'test1stemmed': preload: failed to open @CONFDIR@/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 10:55:10.243 2017] [5656] WARNING: index 'rt': preload: failed to open @CONFDIR@/data/rt.lock: No such file or directory; NOT SERVING
+[Mon Feb 27 10:55:10.257 2017] [5656] accepting connections
+[Mon Feb 27 10:56:07.501 2017] [5656] caught SIGTERM, shutting down
+[Mon Feb 27 10:56:07.657 2017] [5656] shutdown complete
+[Mon Feb 27 10:56:12.765 2017] [3784] listening on all interfaces, port=9312
+[Mon Feb 27 10:56:12.769 2017] [3784] listening on all interfaces, port=9306
+[Mon Feb 27 10:56:12.779 2017] [3784] WARNING: index 'test1stemmed': preload: failed to open @CONFDIR@/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 10:56:12.804 2017] [3784] accepting connections
+[Mon Feb 27 10:57:02.019 2017] [3784] caught SIGTERM, shutting down
+[Mon Feb 27 10:57:02.068 2017] [3784] rt: index rt: ramchunk saved in 0.011 sec
+[Mon Feb 27 10:57:02.121 2017] [3784] shutdown complete
+[Mon Feb 27 10:57:04.807 2017] [11416] listening on all interfaces, port=9312
+[Mon Feb 27 10:57:04.811 2017] [11416] listening on all interfaces, port=9306
+[Mon Feb 27 10:57:04.821 2017] [11416] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 10:57:04.849 2017] [11416] accepting connections
+[Mon Feb 27 10:57:12.703 2017] [11416] caught SIGTERM, shutting down
+[Mon Feb 27 10:57:12.761 2017] [11416] rt: index rt: ramchunk saved in 0.014 sec
+[Mon Feb 27 10:57:12.838 2017] [11416] shutdown complete
+[Mon Feb 27 11:08:43.068 2017] [10460] listening on all interfaces, port=9312
+[Mon Feb 27 11:08:43.070 2017] [10460] listening on all interfaces, port=9306
+[Mon Feb 27 11:08:43.077 2017] [10460] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 11:08:43.105 2017] [10460] accepting connections
+[Mon Feb 27 11:12:39.285 2017] [10460] caught SIGTERM, shutting down
+[Mon Feb 27 11:12:39.348 2017] [10460] rt: index rt: ramchunk saved in 0.011 sec
+[Mon Feb 27 11:12:39.361 2017] [10460] shutdown complete
+[Mon Feb 27 11:12:46.168 2017] [9648] listening on all interfaces, port=9312
+[Mon Feb 27 11:12:46.173 2017] [9648] listening on all interfaces, port=9306
+[Mon Feb 27 11:12:46.183 2017] [9648] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 11:12:46.210 2017] [9648] accepting connections
+[Mon Feb 27 11:17:44.802 2017] [9648] caught SIGTERM, shutting down
+[Mon Feb 27 11:17:44.859 2017] [9648] rt: index rt: ramchunk saved in 0.010 sec
+[Mon Feb 27 11:17:44.908 2017] [9648] shutdown complete
+[Mon Feb 27 11:17:58.516 2017] [11044] listening on all interfaces, port=9312
+[Mon Feb 27 11:17:58.519 2017] [11044] listening on all interfaces, port=9306
+[Mon Feb 27 11:17:58.531 2017] [11044] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 11:17:58.558 2017] [11044] accepting connections
+[Mon Feb 27 11:18:10.296 2017] [11044] caught SIGTERM, shutting down
+[Mon Feb 27 11:18:10.341 2017] [11044] rt: index rt: ramchunk saved in 0.006 sec
+[Mon Feb 27 11:18:10.376 2017] [11044] shutdown complete
+[Mon Feb 27 11:18:17.686 2017] [5912] listening on all interfaces, port=9312
+[Mon Feb 27 11:18:17.689 2017] [5912] listening on all interfaces, port=9306
+[Mon Feb 27 11:18:17.699 2017] [5912] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 11:18:17.731 2017] [5912] accepting connections
+[Mon Feb 27 15:55:28.904 2017] [5912] caught SIGTERM, shutting down
+[Mon Feb 27 15:55:28.963 2017] [5912] rt: index rt: ramchunk saved in 0.007 sec
+[Mon Feb 27 15:55:29.004 2017] [5912] shutdown complete
+[Mon Feb 27 15:55:43.023 2017] [4316] listening on all interfaces, port=9312
+[Mon Feb 27 15:55:43.027 2017] [4316] listening on all interfaces, port=9306
+[Mon Feb 27 15:55:43.038 2017] [4316] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 15:55:43.068 2017] [4316] accepting connections
+[Mon Feb 27 15:57:23.816 2017] [4316] caught SIGTERM, shutting down
+[Mon Feb 27 15:57:23.869 2017] [4316] rt: index rt: ramchunk saved in 0.005 sec
+[Mon Feb 27 15:57:23.936 2017] [4316] shutdown complete
+[Mon Feb 27 15:57:32.246 2017] [14316] listening on all interfaces, port=9312
+[Mon Feb 27 15:57:32.250 2017] [14316] listening on all interfaces, port=9306
+[Mon Feb 27 15:57:32.261 2017] [14316] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 15:57:32.292 2017] [14316] accepting connections
+[Mon Feb 27 16:11:20.494 2017] [14316] caught SIGTERM, shutting down
+[Mon Feb 27 16:11:20.542 2017] [14316] rt: index rt: ramchunk saved in 0.005 sec
+[Mon Feb 27 16:11:20.576 2017] [14316] shutdown complete
+[Mon Feb 27 16:12:56.169 2017] [1816] listening on all interfaces, port=9312
+[Mon Feb 27 16:12:56.173 2017] [1816] listening on all interfaces, port=9306
+[Mon Feb 27 16:12:56.235 2017] [1816] rotating index 'test1': success
+[Mon Feb 27 16:12:56.263 2017] [1816] rotating index 'test1stemmed': success
+[Mon Feb 27 16:12:56.297 2017] [1816] accepting connections
+[Mon Feb 27 17:23:38.206 2017] [1816] caught SIGTERM, shutting down
+[Mon Feb 27 17:23:38.242 2017] [1816] rt: index rt: ramchunk saved in 0.006 sec
+[Mon Feb 27 17:23:38.330 2017] [1816] shutdown complete
+[Mon Feb 27 17:23:47.716 2017] [12840] listening on all interfaces, port=9312
+[Mon Feb 27 17:23:47.720 2017] [12840] listening on all interfaces, port=9306
+[Mon Feb 27 17:23:47.795 2017] [12840] accepting connections
+[Mon Feb 27 17:24:23.160 2017] [12840] caught SIGTERM, shutting down
+[Mon Feb 27 17:24:23.175 2017] [12840] rt: index rt: ramchunk saved in 0.005 sec
+[Mon Feb 27 17:24:23.240 2017] [12840] shutdown complete
+[Mon Feb 27 17:27:15.248 2017] [9056] listening on all interfaces, port=9312
+[Mon Feb 27 17:27:15.252 2017] [9056] listening on all interfaces, port=9306
+[Mon Feb 27 17:27:15.330 2017] [9056] accepting connections
+[Mon Feb 27 17:38:14.073 2017] [9056] caught SIGTERM, shutting down
+[Mon Feb 27 17:38:14.085 2017] [9056] rt: index rt: ramchunk saved in 0.006 sec
+[Mon Feb 27 17:38:14.157 2017] [9056] shutdown complete
+[Mon Feb 27 17:38:38.812 2017] [10324] listening on all interfaces, port=9312
+[Mon Feb 27 17:38:38.824 2017] [10324] listening on all interfaces, port=9306
+[Mon Feb 27 17:38:38.863 2017] [10324] rotating index 'test1': success
+[Mon Feb 27 17:38:38.912 2017] [10324] rotating index 'test1stemmed': success
+[Mon Feb 27 17:38:38.947 2017] [10324] accepting connections
+[Mon Feb 27 18:28:54.486 2017] [10324] caught SIGTERM, shutting down
+[Mon Feb 27 18:28:54.553 2017] [10324] rt: index rt: ramchunk saved in 0.012 sec
+[Mon Feb 27 18:28:54.609 2017] [10324] shutdown complete
+[Mon Feb 27 18:29:03.202 2017] [9548] listening on all interfaces, port=9312
+[Mon Feb 27 18:29:03.205 2017] [9548] listening on all interfaces, port=9306
+[Mon Feb 27 18:29:03.318 2017] [9548] accepting connections
+[Mon Feb 27 18:31:26.508 2017] [9548] caught SIGTERM, shutting down
+[Mon Feb 27 18:31:26.520 2017] [9548] rt: index rt: ramchunk saved in 0.006 sec
+[Mon Feb 27 18:31:26.603 2017] [9548] shutdown complete
+[Mon Feb 27 18:31:53.907 2017] [11492] listening on all interfaces, port=9312
+[Mon Feb 27 18:31:53.910 2017] [11492] listening on all interfaces, port=9306
+[Mon Feb 27 18:31:53.968 2017] [11492] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Mon Feb 27 18:31:54.017 2017] [11492] accepting connections
+[Tue Feb 28 09:34:27.143 2017] [11492] caught SIGTERM, shutting down
+[Tue Feb 28 09:34:27.184 2017] [11492] rt: index rt: ramchunk saved in 0.007 sec
+[Tue Feb 28 09:34:27.207 2017] [11492] shutdown complete
+[Tue Feb 28 09:36:47.389 2017] [12408] listening on all interfaces, port=9312
+[Tue Feb 28 09:36:47.399 2017] [12408] listening on all interfaces, port=9306
+[Tue Feb 28 09:36:47.557 2017] [12408] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 09:36:47.616 2017] [12408] accepting connections
+[Tue Feb 28 09:40:47.369 2017] [12408] caught SIGTERM, shutting down
+[Tue Feb 28 09:40:47.391 2017] [12408] rt: index rt: ramchunk saved in 0.005 sec
+[Tue Feb 28 09:40:47.483 2017] [12408] shutdown complete
+[Tue Feb 28 09:41:05.055 2017] [3948] listening on all interfaces, port=9312
+[Tue Feb 28 09:41:05.059 2017] [3948] listening on all interfaces, port=9306
+[Tue Feb 28 09:41:05.199 2017] [3948] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 09:41:05.234 2017] [3948] accepting connections
+[Tue Feb 28 10:31:04.226 2017] [3948] caught SIGTERM, shutting down
+[Tue Feb 28 10:31:04.287 2017] [3948] rt: index rt: ramchunk saved in 0.006 sec
+[Tue Feb 28 10:31:04.314 2017] [3948] shutdown complete
+[Tue Feb 28 10:31:17.711 2017] [5816] listening on all interfaces, port=9312
+[Tue Feb 28 10:31:17.715 2017] [5816] listening on all interfaces, port=9306
+[Tue Feb 28 10:31:17.862 2017] [5816] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 10:31:17.900 2017] [5816] accepting connections
+[Tue Feb 28 10:42:18.110 2017] [5816] caught SIGTERM, shutting down
+[Tue Feb 28 10:42:18.135 2017] [5816] rt: index rt: ramchunk saved in 0.005 sec
+[Tue Feb 28 10:42:18.138 2017] [5816] shutdown complete
+[Tue Feb 28 10:42:33.218 2017] [8496] listening on all interfaces, port=9312
+[Tue Feb 28 10:42:33.222 2017] [8496] listening on all interfaces, port=9306
+[Tue Feb 28 10:42:33.303 2017] [8496] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 10:42:33.352 2017] [8496] accepting connections
+[Tue Feb 28 10:46:28.485 2017] [8496] caught SIGTERM, shutting down
+[Tue Feb 28 10:46:28.499 2017] [8496] rt: index rt: ramchunk saved in 0.005 sec
+[Tue Feb 28 10:46:28.540 2017] [8496] shutdown complete
+[Tue Feb 28 10:46:39.415 2017] [12652] listening on all interfaces, port=9312
+[Tue Feb 28 10:46:39.426 2017] [12652] listening on all interfaces, port=9306
+[Tue Feb 28 10:46:39.519 2017] [12652] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 10:46:39.656 2017] [12652] accepting connections
+[Tue Feb 28 10:48:39.433 2017] [12652] caught SIGTERM, shutting down
+[Tue Feb 28 10:48:39.493 2017] [12652] rt: index rt: ramchunk saved in 0.005 sec
+[Tue Feb 28 10:48:39.504 2017] [12652] shutdown complete
+[Tue Feb 28 10:48:52.329 2017] [12888] listening on all interfaces, port=9312
+[Tue Feb 28 10:48:52.333 2017] [12888] listening on all interfaces, port=9306
+[Tue Feb 28 10:48:52.401 2017] [12888] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 10:48:52.436 2017] [12888] accepting connections
+[Tue Feb 28 10:55:11.193 2017] [12888] caught SIGTERM, shutting down
+[Tue Feb 28 10:55:11.209 2017] [12888] rt: index rt: ramchunk saved in 0.006 sec
+[Tue Feb 28 10:55:11.276 2017] [12888] shutdown complete
+[Tue Feb 28 10:55:21.602 2017] [1904] listening on all interfaces, port=9312
+[Tue Feb 28 10:55:21.617 2017] [1904] listening on all interfaces, port=9306
+[Tue Feb 28 10:55:21.699 2017] [1904] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 10:55:21.733 2017] [1904] accepting connections
+[Tue Feb 28 11:10:05.708 2017] [1904] caught SIGTERM, shutting down
+[Tue Feb 28 11:10:05.719 2017] [1904] rt: index rt: ramchunk saved in 0.005 sec
+[Tue Feb 28 11:10:05.808 2017] [1904] shutdown complete
+[Tue Feb 28 11:10:15.387 2017] [2780] listening on all interfaces, port=9312
+[Tue Feb 28 11:10:15.400 2017] [2780] listening on all interfaces, port=9306
+[Tue Feb 28 11:10:15.419 2017] [2780] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 11:10:15.437 2017] [2780] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 11:10:15.458 2017] [2780] accepting connections
+[Tue Feb 28 11:11:58.262 2017] [2780] caught SIGTERM, shutting down
+[Tue Feb 28 11:11:58.338 2017] [2780] shutdown complete
+[Tue Feb 28 11:12:02.253 2017] [9284] listening on all interfaces, port=9312
+[Tue Feb 28 11:12:02.261 2017] [9284] listening on all interfaces, port=9306
+[Tue Feb 28 11:12:02.270 2017] [9284] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 11:12:02.296 2017] [9284] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 11:12:02.310 2017] [9284] binlog: replaying log ./binlog.001
+[Tue Feb 28 11:12:02.317 2017] [9284] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 11:12:02.317 2017] [9284] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 11:12:02.322 2017] [9284] binlog: finished replaying total 1 in 0.013 sec
+[Tue Feb 28 11:12:02.332 2017] [9284] accepting connections
+[Tue Feb 28 11:16:01.671 2017] [9284] caught SIGTERM, shutting down
+[Tue Feb 28 11:16:01.781 2017] [9284] shutdown complete
+[Tue Feb 28 11:16:06.814 2017] [7476] listening on all interfaces, port=9312
+[Tue Feb 28 11:16:06.818 2017] [7476] listening on all interfaces, port=9306
+[Tue Feb 28 11:16:06.836 2017] [7476] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 11:16:06.863 2017] [7476] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 11:16:06.882 2017] [7476] binlog: replaying log ./binlog.001
+[Tue Feb 28 11:16:06.883 2017] [7476] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 11:16:06.884 2017] [7476] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 11:16:06.886 2017] [7476] binlog: replaying log ./binlog.001
+[Tue Feb 28 11:16:06.892 2017] [7476] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 11:16:06.903 2017] [7476] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 11:16:06.905 2017] [7476] binlog: finished replaying total 2 in 0.023 sec
+[Tue Feb 28 11:16:06.913 2017] [7476] accepting connections
+[Tue Feb 28 14:02:31.573 2017] [7476] caught SIGTERM, shutting down
+[Tue Feb 28 14:02:31.673 2017] [7476] shutdown complete
+[Tue Feb 28 14:07:46.958 2017] [13496] listening on all interfaces, port=9312
+[Tue Feb 28 14:07:46.961 2017] [13496] listening on all interfaces, port=9306
+[Tue Feb 28 14:07:46.983 2017] [13496] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 14:07:46.985 2017] [13496] WARNING: index 'dist1': no such local index 'document', SKIPPED
+[Tue Feb 28 14:07:46.987 2017] [13496] WARNING: index 'dist1': no such local index 'documentstemmed', SKIPPED
+[Tue Feb 28 14:07:47.005 2017] [13496] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 14:07:47.037 2017] [13496] WARNING: index 'documentstemmed': preload: failed to open D:/sphinx/data/documentstemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 14:07:47.053 2017] [13496] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:07:47.069 2017] [13496] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:07:47.073 2017] [13496] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:07:47.086 2017] [13496] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:07:47.097 2017] [13496] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:07:47.098 2017] [13496] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:07:47.100 2017] [13496] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:07:47.103 2017] [13496] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:07:47.105 2017] [13496] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:07:47.114 2017] [13496] binlog: finished replaying total 3 in 0.060 sec
+[Tue Feb 28 14:07:47.127 2017] [13496] accepting connections
+[Tue Feb 28 14:22:01.105 2017] [13496] caught SIGTERM, shutting down
+[Tue Feb 28 14:22:01.197 2017] [13496] shutdown complete
+[Tue Feb 28 14:22:09.990 2017] [7732] listening on all interfaces, port=9312
+[Tue Feb 28 14:22:09.997 2017] [7732] listening on all interfaces, port=9306
+[Tue Feb 28 14:22:10.016 2017] [7732] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 14:22:10.018 2017] [7732] WARNING: index 'dist1': key 'path' not found - NOT SERVING
+[Tue Feb 28 14:22:10.027 2017] [7732] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 14:22:10.043 2017] [7732] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:22:10.044 2017] [7732] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:22:10.047 2017] [7732] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:22:10.052 2017] [7732] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:22:10.059 2017] [7732] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:22:10.061 2017] [7732] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:22:10.063 2017] [7732] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:22:10.065 2017] [7732] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:22:10.066 2017] [7732] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:22:10.078 2017] [7732] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:22:10.082 2017] [7732] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:22:10.082 2017] [7732] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:22:10.087 2017] [7732] binlog: finished replaying total 4 in 0.043 sec
+[Tue Feb 28 14:22:10.097 2017] [7732] accepting connections
+[Tue Feb 28 14:28:42.101 2017] [7732] caught SIGTERM, shutting down
+[Tue Feb 28 14:28:42.233 2017] [7732] shutdown complete
+[Tue Feb 28 14:49:47.557 2017] [13364] listening on all interfaces, port=9312
+[Tue Feb 28 14:49:47.562 2017] [13364] listening on all interfaces, port=9306
+[Tue Feb 28 14:49:47.565 2017] [13364] WARNING: index 'test1': preload: failed to open D:/sphinx/data/test1.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 14:49:47.574 2017] [13364] WARNING: index 'test1stemmed': preload: failed to open D:/sphinx/data/test1stemmed.sph: No such file or directory; NOT SERVING
+[Tue Feb 28 14:49:47.579 2017] [13364] WARNING: index 'dist1': key 'path' not found - NOT SERVING
+[Tue Feb 28 14:49:47.585 2017] [13364] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 14:49:47.585 2017] [13364] FATAL: no valid indexes to serve
+[Tue Feb 28 14:50:07.607 2017] [3544] listening on all interfaces, port=9312
+[Tue Feb 28 14:50:07.610 2017] [3544] listening on all interfaces, port=9306
+[Tue Feb 28 14:50:07.654 2017] [3544] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 14:50:07.671 2017] [3544] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:50:07.672 2017] [3544] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:50:07.675 2017] [3544] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:50:07.677 2017] [3544] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:50:07.678 2017] [3544] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:50:07.680 2017] [3544] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:50:07.684 2017] [3544] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:50:07.687 2017] [3544] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:50:07.688 2017] [3544] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:50:07.697 2017] [3544] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:50:07.701 2017] [3544] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:50:07.705 2017] [3544] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:50:07.705 2017] [3544] binlog: replaying log ./binlog.001
+[Tue Feb 28 14:50:07.707 2017] [3544] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 14:50:07.712 2017] [3544] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 14:50:07.715 2017] [3544] binlog: finished replaying total 5 in 0.043 sec
+[Tue Feb 28 14:50:07.733 2017] [3544] accepting connections
+[Tue Feb 28 17:03:33.176 2017] [3544] caught SIGTERM, shutting down
+[Tue Feb 28 17:03:33.236 2017] [3544] shutdown complete
+[Tue Feb 28 17:03:57.173 2017] [2452] listening on all interfaces, port=9312
+[Tue Feb 28 17:03:57.184 2017] [2452] listening on all interfaces, port=9306
+[Tue Feb 28 17:03:57.249 2017] [2452] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 17:03:57.262 2017] [2452] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:03:57.263 2017] [2452] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:03:57.265 2017] [2452] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:03:57.269 2017] [2452] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:03:57.271 2017] [2452] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:03:57.283 2017] [2452] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:03:57.290 2017] [2452] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:03:57.291 2017] [2452] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:03:57.292 2017] [2452] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:03:57.294 2017] [2452] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:03:57.296 2017] [2452] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:03:57.299 2017] [2452] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:03:57.307 2017] [2452] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:03:57.308 2017] [2452] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:03:57.310 2017] [2452] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:03:57.312 2017] [2452] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:03:57.320 2017] [2452] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:03:57.323 2017] [2452] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:03:57.329 2017] [2452] binlog: finished replaying total 6 in 0.066 sec
+[Tue Feb 28 17:03:57.343 2017] [2452] accepting connections
+[Tue Feb 28 17:18:40.708 2017] [2452] caught SIGTERM, shutting down
+[Tue Feb 28 17:18:40.799 2017] [2452] shutdown complete
+[Tue Feb 28 17:18:45.593 2017] [5304] listening on all interfaces, port=9312
+[Tue Feb 28 17:18:45.600 2017] [5304] listening on all interfaces, port=9306
+[Tue Feb 28 17:18:45.668 2017] [5304] WARNING: index 'rt': no attribute configured (use rt_attr directive) - NOT SERVING
+[Tue Feb 28 17:18:45.675 2017] [5304] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:18:45.676 2017] [5304] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:18:45.684 2017] [5304] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:18:45.687 2017] [5304] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:18:45.689 2017] [5304] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:18:45.692 2017] [5304] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:18:45.695 2017] [5304] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:18:45.696 2017] [5304] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:18:45.700 2017] [5304] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:18:45.712 2017] [5304] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:18:45.713 2017] [5304] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:18:45.716 2017] [5304] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:18:45.719 2017] [5304] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:18:45.720 2017] [5304] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:18:45.722 2017] [5304] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:18:45.727 2017] [5304] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:18:45.737 2017] [5304] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:18:45.746 2017] [5304] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:18:45.748 2017] [5304] binlog: replaying log ./binlog.001
+[Tue Feb 28 17:18:45.749 2017] [5304] binlog: replay stats: 0 rows in 0 commits; 0 updates, 0 reconfigure; 0 indexes
+[Tue Feb 28 17:18:45.751 2017] [5304] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Tue Feb 28 17:18:45.757 2017] [5304] binlog: finished replaying total 7 in 0.081 sec
+[Tue Feb 28 17:18:45.789 2017] [5304] accepting connections
